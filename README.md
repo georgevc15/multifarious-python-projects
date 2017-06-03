@@ -8,5 +8,5 @@
 
 - helloyou -> branch <- contains Hello You project that gathers information about the user, process it and gives an output
 
-- emailslicer -> branch <- contains Email Slicer project that ask user's email address and tells him what is the user name and which is the domain name of their address
+- emailslicer -> branch <- contains Email Slicer project that ask user's email address and returns the user's  email domain and name
 
