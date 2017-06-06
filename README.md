@@ -10,5 +10,5 @@
 
 - emailslicer -> branch <- contains Email Slicer project that ask user's email address and returns the user's  email domain and name
 
-- travis -> branch <- super simple security system
+- travis -> branch <- super simple security system. Checks if a user exists within the system and removes it if the user wants to.  
 
