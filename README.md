@@ -12,3 +12,5 @@
 
 - Travis -> branch <- super simple security system. Checks if a user exists within the system. If the user exists it will ask if he wants to be removed from the list.  If the user doesn’t exists it will ask if he wants to be added to the list/system
 
+- Cinema -> branch <- allows users to book a film 
+
