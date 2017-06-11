@@ -24,6 +24,6 @@ while True:
             else:
                 print("Sorry, we are sold out!")
         else:
-            print("Tou are too young to see that film")
+            print("You are too young to see that film")
     else:
         print("We don't have that film...")
