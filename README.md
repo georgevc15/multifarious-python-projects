@@ -14,4 +14,4 @@
 
 - Cinema -> branch <- allows users to book a film. If the use user is old enough and there are enought seats we allow users to book/watch a movie
 
-- Baby -> branch <- Baby conversation Simulator
+- Simulator -> branch <- Baby conversation simulator. Program that simulates a conversation with a baby
