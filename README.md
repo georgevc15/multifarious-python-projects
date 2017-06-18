@@ -16,4 +16,4 @@
 
 - Simulator -> branch <- Baby conversation simulator. Program that simulates a conversation with a baby
 
-- Translator -> branch <-
+- Translator -> branch <- coverts words in secret code
