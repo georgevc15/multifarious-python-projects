@@ -1,4 +1,4 @@
-# Multifarious projects written in Python
+﻿# Multifarious projects written in Python
 
 
 # Each project has it's own branch
@@ -12,8 +12,10 @@
 
 - Travis -> branch <- super simple security system. Checks if a user exists within the system. If the user exists it will ask if he wants to be removed from the list.  If the user doesn’t exists it will ask if he wants to be added to the list/system
 
-- Cinema -> branch <- allows users to book a film. If the use user is old enough and there are enought seats we allow users to book/watch a movie
+- cinema -> branch <- allows users to book a film. If the use user is old enough and there are enought seats we allow users to book/watch a movie
 
-- Simulator -> branch <- Baby conversation simulator. Program that simulates a conversation with a baby
+- simulator -> branch <- Baby conversation simulator. Program that simulates a conversation with a baby
 
-- Translator -> branch <- coverts words in secret code
+- translator -> branch <- coverts words in secret code
+
+- tictactoe -> branch <-
