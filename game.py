@@ -21,7 +21,7 @@ def player_move(icon):
     print("Your turn player {}".format(number))
     
     choice = int(input("Enter your move (1-9): ").strip())
-    if board[choice - 1] == "  ":
+    if board[choice - 1] == " ":
         board[choice - 1] = icon
     else:
         print()
@@ -56,13 +56,15 @@ while True:
         print("X Wins! Congratulations!")
         break
     elif is_draw():
-        print("Its a draw")
+        print("Its a draw!")
+        break
     player_move("O")
     if is_victory("O"):
         print_board()
         print("O Wins! Congratulations!")
         break
     elif is_draw():
+        print_board()
         print("Its a draw")
         break
     
