@@ -18,4 +18,4 @@
 
 - translator -> branch <- coverts words in secret code
 
-- tictactoe -> branch <-
+- tictactoe -> branch <- game in which two players alternately put Xs and Os
