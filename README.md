@@ -22,4 +22,4 @@
 
 - coins -> branch <- Make your own coins and print data
 
-- bank -> branch <- bank with current and savings accounts, each account can deposit and redraw money but also can print your statement, each account has different minimum limits
+- bank -> branch <- bank with current and savings accounts, each account can deposit and redraw money but also can print your statement, each account has different minimum limits (1000 pounds)
